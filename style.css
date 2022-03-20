@@ -1,0 +1,24 @@
+h3
+{
+	position: relative;
+	top: 30px;
+	left: 300px;
+	color: black;
+	background-color: lightgrey;
+	width: 600px;
+	padding: 6px;
+}
+
+
+p {
+				-webkit-box-align: center;
+				border: 3px solid lightcoral;
+				padding: 20px;
+				width: 275px;
+				text-align: center;
+				border-radius: 10px;
+				-moz-border-radius: 10px;
+				-webkit-border-radius: 10px;
+			}
+		
+	
